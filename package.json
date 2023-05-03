@@ -23,9 +23,6 @@
     "type": "git",
     "url": "https://github.com/petr-ptacek/math.git"
   },
-  "engines": {
-    "node": "^16.0.0"
-  },
   "keywords": [
     "math",
     "mathematic"
