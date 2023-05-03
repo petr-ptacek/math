@@ -1,0 +1,17 @@
+{
+  "name": "@petr-ptacek/math",
+  "version": "1.0.0",
+  "author": "Petr Ptacek <petr.ptacek99@gmail.com>",
+  "type": "module",
+  "description": "Math functions",
+  "main": "index.js",
+  "module": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "mathematic"
+  ],
+  "license": "ISC"
+}
