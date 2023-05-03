@@ -1,6 +1,6 @@
 {
   "name": "@petr-ptacek/math",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Petr Ptacek <petr.ptacek99@gmail.com>",
   "type": "module",
   "description": "Collections of math functions",
